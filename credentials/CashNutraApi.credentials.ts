@@ -11,7 +11,7 @@ export class CashNutraApi implements ICredentialType {
 	displayName = 'Cash Nutra API';
 
 	documentationUrl =
-		'https://github.com/cashnutra/n8n-nodes-cashnutra?tab=readme-ov-file#credentials';
+		'https://github.com/admin414/n8n-nodes-cashnutra?tab=readme-ov-file#credentials';
 
 	icon = 'file:cashnutra.svg' as const;
 
